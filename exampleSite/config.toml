@@ -1,4 +1,4 @@
-baseURL = "https://www.pyaephyo20-ppa.gitbut.io/test"
+baseURL = "https://www.pyaephyo20-ppa.github.io/test"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
